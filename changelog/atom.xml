@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.hackerone.com/changelog</id>
+    <title>HackerOne Platform Changelog</title>
+    <updated>2021-07-14T14:01:08.002Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>HackerOne</name>
+        <uri>https://docs.hackerone.com</uri>
+    </author>
+    <link rel="alternate" href="https://docs.hackerone.com/changelog"/>
+    <link rel="self" href="https://docs.hackerone.com//changelog/atom.xml"/>
+    <subtitle>See what's changed or new in HackerOne.</subtitle>
+    <rights>All rights reserved 2021, HackerOne</rights>
+    <contributor>
+        <name>HackerOne</name>
+        <uri>https://docs.hackerone.com</uri>
+    </contributor>
+    <entry>
+        <title type="html"><![CDATA[April 2021]]></title>
+        <id>https://docs.hackerone.com/changelog/2021/april</id>
+        <link href="https://docs.hackerone.com/changelog/2021/april"/>
+        <updated>2021-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="program-overview" style="position:relative;"><a href="#program-overview" aria-label="program overview permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Program Overview</h3>
+<p>We launch the new Overview page of the program dashboard to provide an overarching view of important data and statuses regarding your program.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 46.4%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAABYlAAAWJQFJUiTwAAABNklEQVQoz41RXW+EMAzr//+Jd0L3gHbTNKBAoR+04MVhRextlaJWdlLHiXm9Xng8HmiaBs/nE23bYl1XLMvy72C+cw6zW2HeXxbte8DHZ4++72Gthfdek+p9D8X8X47vEAJijDDLNGO0Iw6cZz8OuDUjhoRBBLZtg0ASO2IqWFzEMjsV3vdd8EPvEDYELx9OdpakRcFSiipOIpJEcfrusOWseClZu3DdAD9YuHm+aii6iuUonZoQwzUzFpCsST6ctmjl/LQgS8QUL8uVy781pvpPKSnBQxvEvRQQZyf1MFc5iTuXxQkxU0kmniRnUq7C2gVFGMTvn/Ijnb3U6lK47nEcLzLRahS1EDEJzmLi9zjnPKnFO86ODbfVdZ2SVMlZZrTJ1mLSTVZbdYYMznuWpfBdubM24weWwbvQtC2VhQAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="program overview"
+        title="program overview"
+        src="/static/29a6dbdb1c5220ea526adde1d725d1ed/0b533/apr_2021_program_overview.png"
+        srcset="/static/29a6dbdb1c5220ea526adde1d725d1ed/fac75/apr_2021_program_overview.png 125w,
+/static/29a6dbdb1c5220ea526adde1d725d1ed/63868/apr_2021_program_overview.png 250w,
+/static/29a6dbdb1c5220ea526adde1d725d1ed/0b533/apr_2021_program_overview.png 500w,
+/static/29a6dbdb1c5220ea526adde1d725d1ed/1d69c/apr_2021_program_overview.png 750w,
+/static/29a6dbdb1c5220ea526adde1d725d1ed/00d43/apr_2021_program_overview.png 1000w,
+/static/29a6dbdb1c5220ea526adde1d725d1ed/f4fb1/apr_2021_program_overview.png 1766w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>
+<h3 id="proof-of-compliance" style="position:relative;"><a href="#proof-of-compliance" aria-label="proof of compliance permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Proof of Compliance</h3>
+<p>You can now generate a proof of compliance report for your program on HackerOne to prove that your organization has a vulnerability disclosure policy (VDP) or bug bounty program (BBP) in place.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 50.4%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAABJ0lEQVQoz51R206DQBTkK33zm3w3xsTfMPHJxFefmqaGa4UFS8oCu7BbQMY921CL0dRwksnO3iZz5ji7jwxZypBlDHH8DsYYyrIE53wGOiuKwnJaf+NSSjh+GGO1drHeBNi8ufB9H0EQ2NXzvBMPw9DuiRNc9/st8SiKjoK8UigqjX2pIaSCVgpqIZqmgaNUa+zuIeoSwIhxXAaqruvg9H2PqqoMarRta0HW6ZLq/MNfNRPUWltBCpaCn8In4XPBfzvMTYbe9jhpxlI75SRJIIS4LDjd9wMwfKLTBzhSDeA1tSnMUKQNllomwWEYcKHX2bY3cNq2AQ1mym/CNLmf5yc05k13gNzm4A8v4HfPKJ9WxqFxswi1QNOb/F8DpNf3YFe3yG8e8QWNnABBE5cagAAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="proof of compliance"
+        title="proof of compliance"
+        src="/static/9542d4bf69a6fea01fcea6ae09ac0258/0b533/apr_2021_proof_of_compliance.png"
+        srcset="/static/9542d4bf69a6fea01fcea6ae09ac0258/fac75/apr_2021_proof_of_compliance.png 125w,
+/static/9542d4bf69a6fea01fcea6ae09ac0258/63868/apr_2021_proof_of_compliance.png 250w,
+/static/9542d4bf69a6fea01fcea6ae09ac0258/0b533/apr_2021_proof_of_compliance.png 500w,
+/static/9542d4bf69a6fea01fcea6ae09ac0258/1d69c/apr_2021_proof_of_compliance.png 750w,
+/static/9542d4bf69a6fea01fcea6ae09ac0258/00d43/apr_2021_proof_of_compliance.png 1000w,
+/static/9542d4bf69a6fea01fcea6ae09ac0258/71b12/apr_2021_proof_of_compliance.png 1308w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>
+<h3 id="hacker-collaboration-preferences" style="position:relative;"><a href="#hacker-collaboration-preferences" aria-label="hacker collaboration preferences permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Hacker Collaboration Preferences</h3>
+<p>Hackers can now set which programs they’re open to collaborating on so that they can work with other hackers in finding vulnerabilities.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 63.2%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAABJUlEQVQ4y61TSW7DMAz0///YY3uI40UbZbmS2RkmMeCk6JYSGFDiMiYpuqu16rZt2lozfS+0fYecs6aUlFyd936/xBh1GAadpmnX9ImkiwaSUItmESMS6BCCgfdunmc7UCIS+vNZQwwgECQT+QABPOOmUU+nHrFRJS/mM0JWuCyLEVKP44yEpj6I0lcxinZFrRgL4uQVH31503WD7b3Ct1mHzO9YqnPOEmhg20kWazHhTNsBpWh2aG8OWtZ1t7M6q5AEKxwUzsMIU7wQArw/AHM0hKPdCG/zo/B8IUxfgzF3cTuhzQn9HytMv8aBsGAut316mpAX7lu5DvZpwogHmL3DLuV/Ihyd+h5/xOTtT/j0VX8II2wua52StpDRdtn36S/gW3wAmeLxA2R4srgAAAAASUVORK5CYII='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="hacker collaboration preferences page"
+        title="hacker collaboration preferences page"
+        src="/static/490d8f27fd049f432830a1e94b0777f5/0b533/apr_2021_collaboration_preferences.png"
+        srcset="/static/490d8f27fd049f432830a1e94b0777f5/fac75/apr_2021_collaboration_preferences.png 125w,
+/static/490d8f27fd049f432830a1e94b0777f5/63868/apr_2021_collaboration_preferences.png 250w,
+/static/490d8f27fd049f432830a1e94b0777f5/0b533/apr_2021_collaboration_preferences.png 500w,
+/static/490d8f27fd049f432830a1e94b0777f5/1d69c/apr_2021_collaboration_preferences.png 750w,
+/static/490d8f27fd049f432830a1e94b0777f5/00d43/apr_2021_collaboration_preferences.png 1000w,
+/static/490d8f27fd049f432830a1e94b0777f5/87488/apr_2021_collaboration_preferences.png 1282w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>
+<h3 id="collaborators-tab-on-the-security-page" style="position:relative;"><a href="#collaborators-tab-on-the-security-page" aria-label="collaborators tab on the security page permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Collaborators Tab on the Security Page</h3>
+<p>We introduce the new Collaborators tab on the program’s security page, where you can see which hackers are open to collaboration and contact them.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 43.2%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAABYlAAAWJQFJUiTwAAABJElEQVQoz4WRTU7DMBCFff8rcA8k2LOpKiGxQGKTVZtKVUhjx44d/+QxM3VLW6CM9GlmZPuN/axCCGC01kJKCTlXqE4X5KVAvzXYP64wrD7gvccwDDDGiMY8z1Dr9RpN06Dremy2O8SUwZELsCz4jtrol3fsHp4wPL9itBZt2+LQ9zIwxgjFU7wPcL4IdspwU4Slumr/ED0F36gnsa7rpBZBXiiFDlOzUD4+l5UWFMr5lpQqWQROsCA/WznnYOnqp8yM2sCaUQTSjY9XnubL+rhXHchUS2LOTZQnqc3ngLHXYsWZEK77ylQ51h6KBeZIU2RCJRchstEEr4c5nfvf4HP8H8rQ02j/3SBrSXDBfyGfstls6XczmRr/9IrXnI93/WT4hl+Y6L4In1+I4gAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="collaborators tab on security page"
+        title="collaborators tab on security page"
+        src="/static/d01dbd0d858e60d4abb62bbace3340cd/0b533/apr_2021_collaborators_tab.png"
+        srcset="/static/d01dbd0d858e60d4abb62bbace3340cd/fac75/apr_2021_collaborators_tab.png 125w,
+/static/d01dbd0d858e60d4abb62bbace3340cd/63868/apr_2021_collaborators_tab.png 250w,
+/static/d01dbd0d858e60d4abb62bbace3340cd/0b533/apr_2021_collaborators_tab.png 500w,
+/static/d01dbd0d858e60d4abb62bbace3340cd/1d69c/apr_2021_collaborators_tab.png 750w,
+/static/d01dbd0d858e60d4abb62bbace3340cd/00d43/apr_2021_collaborators_tab.png 1000w,
+/static/d01dbd0d858e60d4abb62bbace3340cd/70c12/apr_2021_collaborators_tab.png 2110w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>
+<h3 id="hacker-custom-fields" style="position:relative;"><a href="#hacker-custom-fields" aria-label="hacker custom fields permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Hacker Custom Fields</h3>
+<p>Programs can now create hacker facing [custom fields] to require specific information from hackers regarding the vulnerability they found. This speeds up the remediation process as it’ll minimize the back-and-forth between the hacker and the program in getting necessary information.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 100.8%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABYlAAAWJQFJUiTwAAABaElEQVQ4y52VbQuCUAyF/f8/zy8VFkJhkeRLZmkvtngGg6tctRqMXa96PNvZrkHTNPJ6vaTrOvX3+62RPVvb9f1+9/rj8ZDn8ylgBSxut5vkeS5lWcrpdJLz+Sx1XUuWZVIUhd7jeszAwAEO+DIvrNdr2W63EkWRxHEsh8NBFouFbDYbWa1WugdjjGiOtW2rYAoIMhvX61VZwG7MDMBdu3ukH1Cf/X6vbGC12+30Bmb1s9q67HygCgjDy+UiaZp62bjp+ViNAiIGIpD6kMmc9QBJ53g8auERwNT8GxCVYbdcLrV+c+nNApIyrABDlDFVfwK0lqHBiVVVqbJ/MSRlpoGmpn1QO0kSHbW/U2YGYYnajB8d72udr1WGURiGKg6KD5X2+WRjw460fxHEN4a9xoYZ0X0A9jbfJhZxliELThx3SgzQlHfjJCBqIoTN8rBOUykPn+2pPHdsffMhBeQsNHN/Bb+4vQfWByEhIro8qRgkAAAAAElFTkSuQmCC'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="hacker custom fields"
+        title="hacker custom fields"
+        src="/static/cf62aae30ba63ae87b92fdc63ec132f1/0b533/apr_2021_hacker_facing_custom_fields.png"
+        srcset="/static/cf62aae30ba63ae87b92fdc63ec132f1/fac75/apr_2021_hacker_facing_custom_fields.png 125w,
+/static/cf62aae30ba63ae87b92fdc63ec132f1/63868/apr_2021_hacker_facing_custom_fields.png 250w,
+/static/cf62aae30ba63ae87b92fdc63ec132f1/0b533/apr_2021_hacker_facing_custom_fields.png 500w,
+/static/cf62aae30ba63ae87b92fdc63ec132f1/76aed/apr_2021_hacker_facing_custom_fields.png 546w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>]]></content>
+        <author>
+            <name>HackerOne</name>
+            <uri>https://docs.hackerone.com/changelog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[March 2021]]></title>
+        <id>https://docs.hackerone.com/changelog/2021/march</id>
+        <link href="https://docs.hackerone.com/changelog/2021/march"/>
+        <updated>2021-03-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="custom-field-changes-tracked-in-the-report-timeline" style="position:relative;"><a href="#custom-field-changes-tracked-in-the-report-timeline" aria-label="custom field changes tracked in the report timeline permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Custom Field Changes Tracked in the Report Timeline</h3>
+<p>Any changes to <a href="/programs/custom-fields.html">custom fields</a> will now be shown in the report timeline. This enables programs to properly keep track of all changes to their custom fields.  </p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 22.400000000000002%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAm0lEQVQY012OUQ7DIAxDe/+7ri2EAAE6z6FUmvrxlCDF5m2tDdRqiCHhcwj2U5COY6LnCf3bZd9RQsBVCkbOc5rIfUca31vvA80asihiVAgpMU7qmg+ZZR7sqhgMe2HjXlnqt71WbPYYxjTtDpomht4ILb3Q6cvuYoGlBF0fNS9sNDQaKg1DvMmBNi87D3nB12zOsQrdsNCwLMMfawI1Oh1jcAYAAAAASUVORK5CYII='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="custom field changes"
+        title="custom field changes"
+        src="/static/27409a2adf29ec932ed8670dc0760062/0b533/march_2021_custom_field_changes_report_timeline.png"
+        srcset="/static/27409a2adf29ec932ed8670dc0760062/fac75/march_2021_custom_field_changes_report_timeline.png 125w,
+/static/27409a2adf29ec932ed8670dc0760062/63868/march_2021_custom_field_changes_report_timeline.png 250w,
+/static/27409a2adf29ec932ed8670dc0760062/0b533/march_2021_custom_field_changes_report_timeline.png 500w,
+/static/27409a2adf29ec932ed8670dc0760062/1d69c/march_2021_custom_field_changes_report_timeline.png 750w,
+/static/27409a2adf29ec932ed8670dc0760062/00d43/march_2021_custom_field_changes_report_timeline.png 1000w,
+/static/27409a2adf29ec932ed8670dc0760062/62a6a/march_2021_custom_field_changes_report_timeline.png 1122w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>]]></content>
+        <author>
+            <name>HackerOne</name>
+            <uri>https://docs.hackerone.com/changelog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[February 2021]]></title>
+        <id>https://docs.hackerone.com/changelog/2021/february</id>
+        <link href="https://docs.hackerone.com/changelog/2021/february"/>
+        <updated>2021-02-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="azure-devops-integration" style="position:relative;"><a href="#azure-devops-integration" aria-label="azure devops integration permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Azure DevOps Integration</h3>
+<p>Enterprise programs can now integrate HackerOne with <a href="/programs/azure-devops-integration.html">Azure DevOps</a> to synchronize their HackerOne events to Azure DevOps and vice versa.</p>
+<h3 id="support-for-multiple-integrations" style="position:relative;"><a href="#support-for-multiple-integrations" aria-label="support for multiple integrations permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Support for Multiple Integrations</h3>
+<p>Programs can now set up <a href="/programs/supported-integrations.html#using-multiple-integrations">multiple integrations</a> with HackerOne and select which issue tracker they want to add a reference to.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 75.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAB70lEQVQ4y51TS4/SYBTtv3Hhj/E/GJfO3szGvUvi7IizJcCKP6DGjIx90EIZDGhCCC+hA31BKX0de+/YpkCjiTc56XeTe+937jlfhZv3NxgNR1A7KjRNY6hqelYLZ+3yrMgKJEmCLMkQRZHzq9dXEL7d3yMIAkwmE2w2G5imCdu2+WvZFhzHwXa75ZywXq8ZZVGpVCAoKTNqGo/HmM/nDMMwsFwuMZvNuHmxWORn+k6nUxwOB8RxjCiKGBSNRgNCp9PhZLfbcZHneXBdl/P9fs+XUZ6B2IdhyD1JkuSgqNfrEEiPIAzwa7XKVy7eTKD8HMU4HdjrIpibWNz1YUgjbPRxXkjDiA0NKLIhlF3AA7OVLdOCbdlwbIeZkhE0rKz5HGRqriFZT2E8Gvmgx9QUWr1MqzJkA2u1GgRZlv80XT6DKArh+z43FDU9R3YxM+xqKvxUgvEyxHQdY2bEmKxiLDcxDv6RnxC5/zemJxpmKwOXzmXu/WvlbCCv/KAraInA9QcP7+o+rm99jGZPBVSXlGlxFlkNrzwcKHhzm+D5Kwsv3rp49tLGR+3IjI9BuWZFh4t/CjPU9d6Tyw5geoDr47+j2WxCaLVa+PljiOH3HgYPXbRTTb+0JXz+eolPdyLaooJ+vw9d108wGAxQrVbxG3gyZFjiPWP/AAAAAElFTkSuQmCC'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="multiple integrations"
+        title="multiple integrations"
+        src="/static/d2740c5ff2d72d3c3de3d733024a586d/0b533/feb_2021_mutliple_integrations.png"
+        srcset="/static/d2740c5ff2d72d3c3de3d733024a586d/fac75/feb_2021_mutliple_integrations.png 125w,
+/static/d2740c5ff2d72d3c3de3d733024a586d/63868/feb_2021_mutliple_integrations.png 250w,
+/static/d2740c5ff2d72d3c3de3d733024a586d/0b533/feb_2021_mutliple_integrations.png 500w,
+/static/d2740c5ff2d72d3c3de3d733024a586d/1d69c/feb_2021_mutliple_integrations.png 750w,
+/static/d2740c5ff2d72d3c3de3d733024a586d/63ec5/feb_2021_mutliple_integrations.png 812w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>
+<h3 id="add-reference-to-issue-tracker" style="position:relative;"><a href="#add-reference-to-issue-tracker" aria-label="add reference to issue tracker permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Add Reference to Issue Tracker</h3>
+<p>We've updated the reference ID field for adding integrations with a new <strong>Add reference to issue tracker</strong> button to more clearly guide users with adding a reference to their integrated issue tracker.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 43.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAABYlAAAWJQFJUiTwAAABi0lEQVQoz12RW2vbQBCF/b8DfSuB/o5CHhroax9aKCGE4qQXR4pWjiOKg+0QdHUk7U1ancyO7MTJwmFmZfmbOUcTYwzatkWappBSwjmHLMuBocN5tMaHk1/49PU3Pn6Z4vh0iqPPF/gxu4c/bhjw/kz6vidAhtVqxdCqKrHZbFDkGcT/Nb5NBb5fxfj5L8Hl7QPOgiXu1hn6zkJpDX0gz5p4ap7nSJIEIp4jEgKCFIYhxE2IRRyxkluB1f0STdPAaoW6brjfq65rdF03AsuyxHUQYD77g79Xl9zPrgMENwKLxYIGxIhpWBhFWK4fCdCiPYD5yHx9AfpLWVVo8hT1ttpNbGCMRWctv7iXoe181u/loS9ApRRLKv0m4IFC98E7N3D/qvG3t2fgD8pAH6ifUtGWRVFw9XdN22gaxHXf72Q4xyeKq0BabPGYb2HtbkNLtjx0v6m3LMmClBqtNGhazfI93/mZYUejM0XP1fiV2RatemhpBFMuqkMtB5IjSL+rjuu2dbDdwFYP//sMtpqteWN9rLgAAAAASUVORK5CYII='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="add reference to issue tracker button"
+        title="add reference to issue tracker button"
+        src="/static/5b2bf81a05f98e1c52358afa88441eca/0b533/feb_2021_add-reference-button.png"
+        srcset="/static/5b2bf81a05f98e1c52358afa88441eca/fac75/feb_2021_add-reference-button.png 125w,
+/static/5b2bf81a05f98e1c52358afa88441eca/63868/feb_2021_add-reference-button.png 250w,
+/static/5b2bf81a05f98e1c52358afa88441eca/0b533/feb_2021_add-reference-button.png 500w,
+/static/5b2bf81a05f98e1c52358afa88441eca/1d69c/feb_2021_add-reference-button.png 750w,
+/static/5b2bf81a05f98e1c52358afa88441eca/00d43/feb_2021_add-reference-button.png 1000w,
+/static/5b2bf81a05f98e1c52358afa88441eca/8affb/feb_2021_add-reference-button.png 1254w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>
+<h3 id="filter-programs-by-bounty-splitting" style="position:relative;"><a href="#filter-programs-by-bounty-splitting" aria-label="filter programs by bounty splitting permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Filter Programs by Bounty Splitting</h3>
+<p>You can now see which programs enable you to collaborate with other hackers in submitting vulnerabilities with the new <em>Bounty splitting</em> filter and label in the <a href="https://hackerone.com/directory/programs">Directory</a>.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 32.800000000000004%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAAAsTAAALEwEAmpwYAAABKUlEQVQoz4VR23aEIAz0/7+xL7Wtq4Ko3APKNGHP7ulb9QwxEGcyYTDGwFr7L7z3CCF0pJTgnOt7pRQUoh5zzhimacK6rtBaQynV47YZ3lNQAvWEELxI/kYRiDH2XOKwLMs7ETj+Ps4TpRbQdYHuG4kKUiZoFvIhYmEh6zw2dreZHad1eMwLQkwYxnHEyqSiJoRib9stDlthvhbs44SaC+7WnqJst7LQdd2MZ5T8ZmGxPVjvsGqFaX70TitvUqlcAJTdgfSJm/PG71VrJ2l82BoXvJ/WVzkbju8Zy8cn1vGnD7txJ6IWIw+fMlzwbFX32b7mq7TBPK/dauCuQ+Jumf8WQsOWBH7be4fEN1a5k8wzI761GOJ7viLiQ8LpqMP53OuJKv9zsWXCLyICG75CqM+TAAAAAElFTkSuQmCC'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="bounty splitting filter and label"
+        title="bounty splitting filter and label"
+        src="/static/05c7ad974eb002c47345a00b468a7a3a/0b533/feb_2021_bounty-splitting-filter.png"
+        srcset="/static/05c7ad974eb002c47345a00b468a7a3a/fac75/feb_2021_bounty-splitting-filter.png 125w,
+/static/05c7ad974eb002c47345a00b468a7a3a/63868/feb_2021_bounty-splitting-filter.png 250w,
+/static/05c7ad974eb002c47345a00b468a7a3a/0b533/feb_2021_bounty-splitting-filter.png 500w,
+/static/05c7ad974eb002c47345a00b468a7a3a/1d69c/feb_2021_bounty-splitting-filter.png 750w,
+/static/05c7ad974eb002c47345a00b468a7a3a/00d43/feb_2021_bounty-splitting-filter.png 1000w,
+/static/05c7ad974eb002c47345a00b468a7a3a/29007/feb_2021_bounty-splitting-filter.png 1600w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>
+<h3 id="collaborations-filter-in-hacktivity" style="position:relative;"><a href="#collaborations-filter-in-hacktivity" aria-label="collaborations filter in hacktivity permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Collaborations Filter in Hacktivity</h3>
+<p>We've added the new <strong>Collaborations</strong> filter in Hacktivity so that hackers can easily see which reports were collaborated on.  </p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 402px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 60%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAABeklEQVQoz6WRWXOCMBSF+f8/qq2iow61KiB1QQWBcUEJSxKoPpwmcRlb64t9+HJvbiaHk4PGGAOlFEVR/Bupo8nlVvCyfxZNOqyqCsfjEYfDAZxzdSDnz6AETdOEruuwLAtxHF9Fn3IolyiKYFs2HMdBmqYoy/L6RSnOGT9VwWV2yf7OoRxmeY5c5seZqmmWiVl26kWV+12yR5ISNSOEqLwvorfCWi7E1kEEp2+i+VpDR2+iXW+g2+pgYjto1XTYHwNxVkfj5Q3vYm4YhkLe/e1UYyQDMV2w5QZcwPz1tare36AMtqDeCoWAmDMUSYp9klyFfjqM91iP5vDXEWa+h5E7xed0jEWwFPiYzF24/gKreIMV2YHMQkgTvBI50/sctUIIbgcTBAsPY3OIfsdAr22oCEYDG1a3h2FvAG88RegtsZOvEYIy7z8d0iwHnYbqmWUQ4yvaKaowRimowlMvz6mIoHBD0Lx4/JdVI+zTkp9hZ/gdTFKVD8Uk3yD6ivY/DUslAAAAAElFTkSuQmCC'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="collaborations filter on hacktivity"
+        title="collaborations filter on hacktivity"
+        src="/static/0a8eb4ee1cde3e2f3e77d76c76baf00e/0ec92/feb_2021_hacktivity_collaborations_filter.png"
+        srcset="/static/0a8eb4ee1cde3e2f3e77d76c76baf00e/fac75/feb_2021_hacktivity_collaborations_filter.png 125w,
+/static/0a8eb4ee1cde3e2f3e77d76c76baf00e/63868/feb_2021_hacktivity_collaborations_filter.png 250w,
+/static/0a8eb4ee1cde3e2f3e77d76c76baf00e/0ec92/feb_2021_hacktivity_collaborations_filter.png 402w"
+        sizes="(max-width: 402px) 100vw, 402px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>
+<h3 id="export-reports-to-pdf" style="position:relative;"><a href="#export-reports-to-pdf" aria-label="export reports to pdf permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Export Reports to PDF</h3>
+<p>You can now <a href="/programs/export-reports.html#export-to-md-zip-or-pdf-files">export your reports to a PDF</a> and choose to include the full timeline, the reporter timeline, or the triage summary when exporting.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 80%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAABYlAAAWJQFJUiTwAAABnElEQVQ4y6WU226CQBCGef+X6EUT0962FzaNpullY+LZ1NMCtgLVKopy9PSXWTNEEBNjJ/kzO8PyMTu7i1Iql9HpdFCv19FsNjEYDG5Sv99HtVqF0u1+wjRNjEYjWJaF/9h+v4cixBCu52EymWC5XMKLx+v1WnqS67oyJs/jKIpwOBwkgEVxFIVQqFyasFqtEIbh2aTT+DR/ahwTR+n3erKS6XQKx3Ek1Pf9lIIgkHPYc57G9AE2CWy0Bab2Ku6fidlsLpMEPRXlOL/ZbGRFWSVAMVTjrxySCi4BydNzAmYtBVRVNZW8xvIqPG5KDGy1WtD1Eb7iY6NpWqonl2B50KTCdk+D7XiwTCNp8na7ldrtdolnZSG5S6a+0A7zDnK/2POYXshCzoBCCMznc3lbSASmBwxhEIN547LLTgE934uhMywWtkzSMqnqrGdRfBGoCg2Rv4X9u4Rjuwj89MGmNuTdjLzbQ6tRat0PvH0/oKQVUBzewXL1m38OBFVe319QrD3iuVLAU+UeHdHAjzXB2BjDMIyrNB4f5+q6jj9RvNFtYfEN+AAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="export to pdf"
+        title="export to pdf"
+        src="/static/37ac8bfc1852a723895703c4dc922513/0b533/feb_2021_export_pdf.png"
+        srcset="/static/37ac8bfc1852a723895703c4dc922513/fac75/feb_2021_export_pdf.png 125w,
+/static/37ac8bfc1852a723895703c4dc922513/63868/feb_2021_export_pdf.png 250w,
+/static/37ac8bfc1852a723895703c4dc922513/0b533/feb_2021_export_pdf.png 500w,
+/static/37ac8bfc1852a723895703c4dc922513/1d69c/feb_2021_export_pdf.png 750w,
+/static/37ac8bfc1852a723895703c4dc922513/00d43/feb_2021_export_pdf.png 1000w,
+/static/37ac8bfc1852a723895703c4dc922513/9cea8/feb_2021_export_pdf.png 1278w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>]]></content>
+        <author>
+            <name>HackerOne</name>
+            <uri>https://docs.hackerone.com/changelog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[January 2021]]></title>
+        <id>https://docs.hackerone.com/changelog/2021/january</id>
+        <link href="https://docs.hackerone.com/changelog/2021/january"/>
+        <updated>2021-01-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="retesting-available-by-default" style="position:relative;"><a href="#retesting-available-by-default" aria-label="retesting available by default permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Retesting Available by Default</h3>
+<p>All Professional and Enterprise programs can now participate in retesting as retests are now included by default rather than as a separate add-on. For Response programs using HackerOne's triage services, the triage team will retest the vulnerabilities to verify the fixes instead of hackers.</p>
+<p>If you're currently running a Bounty or Challenge program, awards for retests will be paid from your bounty pool. If you're using the consumption tier to pay for your bounties, payments for retests will count towards the tier instead.</p>]]></content>
+        <author>
+            <name>HackerOne</name>
+            <uri>https://docs.hackerone.com/changelog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[November 2020]]></title>
+        <id>https://docs.hackerone.com/changelog/2020/november</id>
+        <link href="https://docs.hackerone.com/changelog/2020/november"/>
+        <updated>2020-11-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="new-leaderboards" style="position:relative;"><a href="#new-leaderboards" aria-label="new leaderboards permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>New Leaderboards</h3>
+<p>We’ve added new HackerOne <a href="/hackers/leaderboards.html">leaderboards</a> so that hackers can see who’s on top and where they stand in different categories of leaderboards.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 52%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAABhElEQVQoz3VS7U6DQBDk/d/BtirWSk1M/GP0XUyaGFsQaKEccFyBcWfpNY2JJJvZ24/ZL4Ln9TOipwjraI37uxDz2VxkgdnNDIv5rdrpj8JHrMIlHsIHLM/I+FBwtVzhNXrBx9s7gnEcQeFX1zXiOEae59jv9zgej6Bn8kLjbGc1rus6dKaFs536+nHA6XRCUFWVJk5Y4VAUKAWtBDatRWVqmLpRrAXpS35SHA4FjpWBEbvmi50cgTFGKxJd50Q3aJpGq7IL55xWJvJNfRgGlbZtNdbnEwN9nA1WEr63O6l+mMboe00kUkjaDz222612RRsLkMNL4NmVUMaMd19CmF869Em+Q9k4PjcbFLKacZj25ru7EHpSay2yJNGx2ZkfdxInK5EViJ4kMcqyvHT9LyF3woRWiNmNaZzoTpN8hyzq3AlVLVcW1Li/hN5Qyl7SLEOaZqrXTav75bVb2+lK+CekWT5dXfwq10e5vjKr82rslCOzOt9E2ig8XFGUYp/e1xNSfgFvNPWHiFY16AAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="new leaderboards"
+        title="new leaderboards"
+        src="/static/0e4a52ef1d2342774c9a1732f34ff6bf/0b533/nov_2020_new_leaderboards.png"
+        srcset="/static/0e4a52ef1d2342774c9a1732f34ff6bf/fac75/nov_2020_new_leaderboards.png 125w,
+/static/0e4a52ef1d2342774c9a1732f34ff6bf/63868/nov_2020_new_leaderboards.png 250w,
+/static/0e4a52ef1d2342774c9a1732f34ff6bf/0b533/nov_2020_new_leaderboards.png 500w,
+/static/0e4a52ef1d2342774c9a1732f34ff6bf/1d69c/nov_2020_new_leaderboards.png 750w,
+/static/0e4a52ef1d2342774c9a1732f34ff6bf/00d43/nov_2020_new_leaderboards.png 1000w,
+/static/0e4a52ef1d2342774c9a1732f34ff6bf/60708/nov_2020_new_leaderboards.png 2872w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>
+<h3 id="in-report-remediation-guidance" style="position:relative;"><a href="#in-report-remediation-guidance" aria-label="in report remediation guidance permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>In-report Remediation Guidance</h3>
+<p><a href="/programs/hackbot.html">Hackbot</a> can now provide remediation guidance from MITRE to help programs with mitigating their vulnerabilities. Through this, programs can also provide their own custom remediation guidance to communicate to their internal team.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 9.6%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAACCAYAAABYBvyLAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAb0lEQVQI1zWMSQ7DMAwD8/9fppcUjmWtttMFYOUWPRAcUBS3/bZDRTDNYKwY6riSuxgi2dOn/bK/pgXG0up64N0HXtHxSN6O+4HwfGwNZyFwZXitUGJoUwgpPNmJMqevKwnqySglO3lfY88cG6L4AGcGmNrIWZgeAAAAAElFTkSuQmCC'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="remediation guidance"
+        title="remediation guidance"
+        src="/static/c5ac21f894649e8f1732c466e67cf500/0b533/nov_2020_remediation_guidance.png"
+        srcset="/static/c5ac21f894649e8f1732c466e67cf500/fac75/nov_2020_remediation_guidance.png 125w,
+/static/c5ac21f894649e8f1732c466e67cf500/63868/nov_2020_remediation_guidance.png 250w,
+/static/c5ac21f894649e8f1732c466e67cf500/0b533/nov_2020_remediation_guidance.png 500w,
+/static/c5ac21f894649e8f1732c466e67cf500/1d69c/nov_2020_remediation_guidance.png 750w,
+/static/c5ac21f894649e8f1732c466e67cf500/00d43/nov_2020_remediation_guidance.png 1000w,
+/static/c5ac21f894649e8f1732c466e67cf500/add4c/nov_2020_remediation_guidance.png 1452w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>
+<h3 id="triage-rating-for-hackers" style="position:relative;"><a href="#triage-rating-for-hackers" aria-label="triage rating for hackers permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Triage Rating for Hackers</h3>
+<p>Hackers can now rate their triage experience for all managed programs they submit a report to. The ratings will be used to improve the triage experience for hackers.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 32%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAYAAADDl76dAAAACXBIWXMAAAsTAAALEwEAmpwYAAABDUlEQVQY03WQ3UrEMBCF++JeeOnbCCKL+BCCei/dttBt0vQvbdOZpMdJdl0VEfIxk0mYmXMyYo+NGC6yMexKmB2BiMCCZ8ndKjkD+x7POYZwhS9/g/fIlFIoiiP2ZcF0OmFpNWatYfUlyrvVLahrwH2NTX/AGQUexyt+muBjlB5ZiFNkom1bNHkOXZRCgVYwZQl1zGGqCraRZp3GoiqsMpSGAdT3INOdaQ28nZHtScYOlu7buv7BSZ2cA28bfJTFQWCEJJGRHLgQPMmGe0ieLF2Hoa4xNg0mkZnij3wUO+L9K6dxAJse9vkN9ukV9vEFVKjvDaP+5In48Yv/arMFKYPu7gBz+wBzcw/3XuAT73vMEfvFpa8AAAAASUVORK5CYII='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="hacker triage rating"
+        title="hacker triage rating"
+        src="/static/c70d88976712acc6c4d3c68e1226ea41/0b533/nov_2020_hacker_triage_rating.png"
+        srcset="/static/c70d88976712acc6c4d3c68e1226ea41/fac75/nov_2020_hacker_triage_rating.png 125w,
+/static/c70d88976712acc6c4d3c68e1226ea41/63868/nov_2020_hacker_triage_rating.png 250w,
+/static/c70d88976712acc6c4d3c68e1226ea41/0b533/nov_2020_hacker_triage_rating.png 500w,
+/static/c70d88976712acc6c4d3c68e1226ea41/1d69c/nov_2020_hacker_triage_rating.png 750w,
+/static/c70d88976712acc6c4d3c68e1226ea41/00d43/nov_2020_hacker_triage_rating.png 1000w,
+/static/c70d88976712acc6c4d3c68e1226ea41/587e6/nov_2020_hacker_triage_rating.png 3472w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>]]></content>
+        <author>
+            <name>HackerOne</name>
+            <uri>https://docs.hackerone.com/changelog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[October 2020]]></title>
+        <id>https://docs.hackerone.com/changelog/2020/october</id>
+        <link href="https://docs.hackerone.com/changelog/2020/october"/>
+        <updated>2020-10-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="revamped-assigned-to-filter" style="position:relative;"><a href="#revamped-assigned-to-filter" aria-label="revamped assigned to filter permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Revamped Assigned To Filter</h3>
+<p>The <code>Me</code> filter for the <strong>Assigned to</strong> filter category now only shows reports that you are directly assigned to.</p>
+<p>To see all of the reports that are assigned to you and the groups you are a part of, you can select the new <code>Me and my groups</code> filter. </p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 472px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 67.19999999999999%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAABs0lEQVQ4y52TD2+bMBDF+f5fat2mKcuSpooKgZUEaCiQgQkOhPDHhjefq2VKlWbVLP3kkzk/zr5nA2qYponZbIbpdIr5fI7FYoHlconT6USfMY4jPjIoz6AgiiI4jqOFLMuC7/vwPO9CkJBSvsswDDrXoKBpGpRliaqqzjOtHQ4HcM6RpikYYzgej/on16jrWotqQRJJkgS73Q5xHCPLMi1K8KLQa/RdCHGu9i193+tKDbodKlaMA6SCYgmVMMgzlEMIKfTGa5DY65GrBl2cowwSFJsQzH1W8wtSxwN7CjRtkkOmnBT/3ZTWS8DWWzj3SwTmT6BVm+rukk5CBClkcbxo0lt0hd1zCq4u390G8KMQRV0h5Xvk1UGTUdxUaNMCI69vCuoKu4iBPa7hfJ3B/vID5qcJNpMHuN/uYX+eYnX3HebdBKXpA6fu9T5vCYpeYB//gvu4wvZpg7Vpg+8y6pI+Knqp57HtMdwQ+lth34Htc7ibNSzbhrmyECmLUCW96qpQXf6DVE2hTgvVUbLQNQwyJBmYPBgEAcIwRJ7n2tjvmfgWBr0EEiQT00sgyOi0/j/8Bsyh53AfIlHGAAAAAElFTkSuQmCC'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="assigned to filter"
+        title="assigned to filter"
+        src="/static/907ee908d5c4186cbdf0fd648cc58d64/3c5de/oct_2020_assigned_to_filter.png"
+        srcset="/static/907ee908d5c4186cbdf0fd648cc58d64/fac75/oct_2020_assigned_to_filter.png 125w,
+/static/907ee908d5c4186cbdf0fd648cc58d64/63868/oct_2020_assigned_to_filter.png 250w,
+/static/907ee908d5c4186cbdf0fd648cc58d64/3c5de/oct_2020_assigned_to_filter.png 472w"
+        sizes="(max-width: 472px) 100vw, 472px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>
+<h3 id="microsoft-teams-integration" style="position:relative;"><a href="#microsoft-teams-integration" aria-label="microsoft teams integration permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Microsoft Teams Integration</h3>
+<p>We introduce the <a href="/programs/microsoft-teams.html">Microsoft Teams integration</a> to all Enterprise programs. This enables Microsoft Teams users to keep up-to-date with what's happening in their program as they can now receive notifications of HackerOne report activities directly in their selected channels.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 14.399999999999999%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAADCAYAAACTWi8uAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAd0lEQVQI131OQQ7CMAzr/1+wA29CPIEDh4lSYINKbefEtBmqygVLli05ieMAZc5CiFJUu2plg+no/6Dl7njynA5n+iVxfkTjJbyZN/QhHQokJsKvRHgR16q3XeUZLXcpgeFebAEi3y/l58PxoLasbNRaaCzovuEDiTTrM/9E15MAAAAASUVORK5CYII='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="microsoft teams"
+        title="microsoft teams"
+        src="/static/0e2426cd855aa27c258308c02cc8777f/0b533/oct_2020_microsoft_teams.png"
+        srcset="/static/0e2426cd855aa27c258308c02cc8777f/fac75/oct_2020_microsoft_teams.png 125w,
+/static/0e2426cd855aa27c258308c02cc8777f/63868/oct_2020_microsoft_teams.png 250w,
+/static/0e2426cd855aa27c258308c02cc8777f/0b533/oct_2020_microsoft_teams.png 500w,
+/static/0e2426cd855aa27c258308c02cc8777f/1d69c/oct_2020_microsoft_teams.png 750w,
+/static/0e2426cd855aa27c258308c02cc8777f/00d43/oct_2020_microsoft_teams.png 1000w,
+/static/0e2426cd855aa27c258308c02cc8777f/ad00e/oct_2020_microsoft_teams.png 1366w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>
+<h3 id="bi-directional-servicenow-integration" style="position:relative;"><a href="#bi-directional-servicenow-integration" aria-label="bi directional servicenow integration permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Bi-directional ServiceNow Integration</h3>
+<p>We now offer a bi-directional <a href="/programs/servicenow-integration.html">ServiceNow integration</a> to all Enterprise programs. This will create a better workflow of remediating security vulnerabilities as ServiceNow users can synchronize their HackerOne reports to ServiceNow incidents and vice versa, from ServiceNow to HackerOne.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 15.2%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAADCAIAAAAcOLh5AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAc0lEQVQI11WOwQ7CMAxD+/+fCBeG4DI6YG2ndo2dkG0HtKfIh9hyElSVvVNESAEB+kbN0KrMs1tKmpke8K8kgxv1cl1u97j051S+pW3RPS4pra+xv6f6GPDJjAXRNWNMmps3hKNEsZ3TM7ajAFpT/+g8BH/I36/QDP6lJwAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="servicenow option"
+        title="servicenow option"
+        src="/static/30e1ee072a4066aba25566e3b47856e0/0b533/oct_2020_servicenow.png"
+        srcset="/static/30e1ee072a4066aba25566e3b47856e0/fac75/oct_2020_servicenow.png 125w,
+/static/30e1ee072a4066aba25566e3b47856e0/63868/oct_2020_servicenow.png 250w,
+/static/30e1ee072a4066aba25566e3b47856e0/0b533/oct_2020_servicenow.png 500w,
+/static/30e1ee072a4066aba25566e3b47856e0/1d69c/oct_2020_servicenow.png 750w,
+/static/30e1ee072a4066aba25566e3b47856e0/00d43/oct_2020_servicenow.png 1000w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>]]></content>
+        <author>
+            <name>HackerOne</name>
+            <uri>https://docs.hackerone.com/changelog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[September 2020]]></title>
+        <id>https://docs.hackerone.com/changelog/2020/september</id>
+        <link href="https://docs.hackerone.com/changelog/2020/september"/>
+        <updated>2020-09-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="revamped-gateway-vpn-for-hackers" style="position:relative;"><a href="#revamped-gateway-vpn-for-hackers" aria-label="revamped gateway vpn for hackers permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Revamped Gateway (VPN) for Hackers</h3>
+<p>We’ve revamped the HackerOne Gateway (VPN) for hackers so that hackers can now choose to connect between these 2 different Gateway locations:</p>
+<ul>
+<li>Oregon, USA</li>
+<li>Mumbai, India</li>
+</ul>
+<p>This gives hackers the ability to work on a VPN instance with a lower latency, which improves their Gateway experience with a faster connection.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 25.6%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAABYlAAAWJQFJUiTwAAAArElEQVQY03WPSQ7EIAwE8/9/5hJB2Pelx2bEYZZYaiEbKJUP7z2stdBawxgNaxSFTmuglALfc805f/JdPDtKKZBSEsDBhAmXAB2A2j8ffn/kSinhPE9sqd47jpwzbjLJngYporax0vvAGM9haK0Vzjkwg+ELmKgRQuDWBtIPshxQbiCWySp/V92GezuGxRjfwEiNFJIgBjaXZVfqQOts8Wy4V76uCyGEtXJrDS9odIdZsTwnDAAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="Gateway page for Hackers"
+        title="Gateway page for Hackers"
+        src="/static/26a5c67b2efd8dd3aa6e87d0a866cb7f/0b533/sept_2020_gateway.png"
+        srcset="/static/26a5c67b2efd8dd3aa6e87d0a866cb7f/fac75/sept_2020_gateway.png 125w,
+/static/26a5c67b2efd8dd3aa6e87d0a866cb7f/63868/sept_2020_gateway.png 250w,
+/static/26a5c67b2efd8dd3aa6e87d0a866cb7f/0b533/sept_2020_gateway.png 500w,
+/static/26a5c67b2efd8dd3aa6e87d0a866cb7f/1d69c/sept_2020_gateway.png 750w,
+/static/26a5c67b2efd8dd3aa6e87d0a866cb7f/00d43/sept_2020_gateway.png 1000w,
+/static/26a5c67b2efd8dd3aa6e87d0a866cb7f/dca52/sept_2020_gateway.png 1550w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>
+<h3 id="report-transparency" style="position:relative;"><a href="#report-transparency" aria-label="report transparency permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Report Transparency</h3>
+<p>We've increased report transparency for hackers by actively showing that their report is being looked at. This helps hackers to have more visibility in the triage process. To increase report transparency we show:</p>
+<ul>
+<li>The timestamp of the latest internal activity</li>
+<li>Defined labels of who is interacting with the report such as <em>HackerOne staff</em></li>
+<li>Who is responsible for acting upon the report next</li>
+<li>Individual parameters used to calculate the CVSS score</li>
+</ul>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 37.6%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAIAAAB2/0i6AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAxUlEQVQY05WQyw7CIBBF+/8f58KdMXHhkkKxQHnMQOsFFjXWpPGEDATmcbkDcY6UE5fAxQReUiZKREwpgu1AzpmZEb33Q91zmY1Vk570y1iH2xBCjAiBD6QGEdXiUgr6KSWFEKMQchyllFpra11bP3DOQVQtfj7ut+sF4pVS0LCdgRyMRVyWZXDWzC8NpZiG23JG/zPYZa/ruv0DqurkXtzFxEZvTI3PQ3crxuRDdWyfjGd0MsZ0M0B39esA/5EzzS6ghfdvZKrS+ifnJrkAAAAASUVORK5CYII='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="report transparency - who&#39;s pending action"
+        title="report transparency - who&#39;s pending action"
+        src="/static/4128979cdf595425c7e9d4d8a50c67f6/0b533/sept_2020_report_transparency.png"
+        srcset="/static/4128979cdf595425c7e9d4d8a50c67f6/fac75/sept_2020_report_transparency.png 125w,
+/static/4128979cdf595425c7e9d4d8a50c67f6/63868/sept_2020_report_transparency.png 250w,
+/static/4128979cdf595425c7e9d4d8a50c67f6/0b533/sept_2020_report_transparency.png 500w,
+/static/4128979cdf595425c7e9d4d8a50c67f6/1d69c/sept_2020_report_transparency.png 750w,
+/static/4128979cdf595425c7e9d4d8a50c67f6/00d43/sept_2020_report_transparency.png 1000w,
+/static/4128979cdf595425c7e9d4d8a50c67f6/29007/sept_2020_report_transparency.png 1600w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>
+<h3 id="triage-ratings" style="position:relative;"><a href="#triage-ratings" aria-label="triage ratings permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Triage Ratings</h3>
+<p>Programs managed by HackerOne can now rate their triage experience. The ratings will be used to improve the triage experience for managed programs.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 28.799999999999997%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAYAAADDl76dAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA/klEQVQY042RwUrEMBCG+/4IvoEePOpVxKviwT159VS7ls1u09JN0iRN0vR3EoJb8GLhY/6UMPNNW7Vti+g9vNbwxiAUUvbaYLEG0WpiynWxM+I8Y9libX4XqE/Fe56bdXUN3jToiWG/z7n7aqDYNxxvYNgnJlbDjWf4cfxDSFDTCvQEmiA5hxoGiFJl3/+ezVnCCoWQjA1ZkkBIqAlBqgup4bquWTuvm7QLfptpYBqaqiv3onNYSWbLxZAuicMBgjHI4zGzzbJkdTrlrLuO7CTkwzvGqyeM188Qty8kZcmQGqafEif66LTGf1joblp9evyAvHmFvHuDut+RmMUP3YvK03niPvIAAAAASUVORK5CYII='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="triage rating"
+        title="triage rating"
+        src="/static/837df443e71edad91830b0064ee7de08/0b533/sept_2020_triage_rating.png"
+        srcset="/static/837df443e71edad91830b0064ee7de08/fac75/sept_2020_triage_rating.png 125w,
+/static/837df443e71edad91830b0064ee7de08/63868/sept_2020_triage_rating.png 250w,
+/static/837df443e71edad91830b0064ee7de08/0b533/sept_2020_triage_rating.png 500w,
+/static/837df443e71edad91830b0064ee7de08/1d69c/sept_2020_triage_rating.png 750w,
+/static/837df443e71edad91830b0064ee7de08/00d43/sept_2020_triage_rating.png 1000w,
+/static/837df443e71edad91830b0064ee7de08/29007/sept_2020_triage_rating.png 1600w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>
+<h3 id="pentest-ratings" style="position:relative;"><a href="#pentest-ratings" aria-label="pentest ratings permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Pentest Ratings</h3>
+<p>We now enable pentesters to provide feedback about their pentest experience. Both pentesters and pentest programs can also provide feedback on the pentesters they worked with. This will enable pentesters and pentest programs to see what they've done well and/or how they can better improve.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 124.8%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAZCAYAAAAxFw7TAAAACXBIWXMAABYlAAAWJQFJUiTwAAADI0lEQVQ4y61UPUxTURh9hZCWtpRSSEuRAbQERIW2m2FzNhoTF4wxJiZo3HWQuOgigwOLkpi4uZkYMY4OoMSYiEbAyGBKKIUGKKX/r32v7x3vdx+3/5TFl5x89+8799xzv/skSZLwv2AyotGxWCzo83jgcbvh7ulBL2t3dnZy9HQ50dfrhpeNuVwuOJ1ONu5Ed3c3vF4vX1MiNplMvNHe3o7BgQEMDw8jEAwiEAji7MgIRkfP4czQCM6PBXBhbBxBNkfw+8fh8/k4aJMqha2trWhpaSntYrPZ4OiwwWq1ws7ag6ccGOq3w2GzwG7vMOYdjqrjtrW1wUQcZrO5qS8X/b14+/IOZqev4f7V0+JYx+esrq5ibm4OU1NTmJiYQH9/P1xdXXDYrXzBlUs+PJm+i8vXb+HhzfNHfpvRyRR6mKd+vx+Tk5OYmZnBwsICJNR8iqIgEolgbW0Fn798xY+l9/jw6gFePL6N7/PPsbjExpaXEQqFkMlkatMhFYtFqKoKirqu1y3I54DF+T/49vEXtjfkunnK0TStxCGJwXpobIFWR0BJRNAohyus3IkryucRi8Wwv7+H+MEBNjfD3IKtcBjRaBTxeJzN7WN3d5evrcxtSCiOoB2t+b2+he2dKPb29pBIJPkYnz9S2ZCwcoKOSj09G4KeXgcyK9CLBbaBjkq/a4Ucq7B83TtAIQLIf6ExQvKzWDTIBGG1EL1eYaFQ4P4lDg+RSGY5kuk8Hyey2tttFKsIZVnmZh+wy4jF9jnS6dSJN9vUw2w2y0jSPFLhEqify+U4qTiyaFNsqFAM0EuphXHkYsOibnpkSkwmk6w8EhyHzEvyNJVK8foj0BiB7KH1J14K+SeSRRETAUUCzZMNpJxKqKlCiuQXKSKlFEWfkkVBVz2AWg9rfSCVlFzpX6WS2p+CkV8+tmR0DIiPbpiIhE/0ZgnUF7HsXzmXomT0DIhdKYlUNYPxu0MpV0AqqDoSGeZdTufv1Zg4+VMUVkZ6AethFfdmZdx4lsO7JQWSqmpIZjWksmSwXmW28KgyiraiEqGCjaiKp29kPHot49NPBf8A80Bi2e0mFV8AAAAASUVORK5CYII='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="pentest ratings"
+        title="pentest ratings"
+        src="/static/36d8566875dde1c72da549d93976823b/0b533/sept_2020_pentest_ratings.png"
+        srcset="/static/36d8566875dde1c72da549d93976823b/fac75/sept_2020_pentest_ratings.png 125w,
+/static/36d8566875dde1c72da549d93976823b/63868/sept_2020_pentest_ratings.png 250w,
+/static/36d8566875dde1c72da549d93976823b/0b533/sept_2020_pentest_ratings.png 500w,
+/static/36d8566875dde1c72da549d93976823b/1d69c/sept_2020_pentest_ratings.png 750w,
+/static/36d8566875dde1c72da549d93976823b/00d43/sept_2020_pentest_ratings.png 1000w,
+/static/36d8566875dde1c72da549d93976823b/2bef9/sept_2020_pentest_ratings.png 1024w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>
+<h3 id="my-feedback" style="position:relative;"><a href="#my-feedback" aria-label="my feedback permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>My Feedback</h3>
+<p>We've added a new <strong>My Feedback</strong> section to the hacker settings where pentesters can see all of the feedback they've received from pentesters and pentest programs they've worked with. They can also elect to make their feedback public on their profile.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 67.19999999999999%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAABdklEQVQ4y5VT7W6DMAzk/V9sf/YC2/5sqqp2o3yGhACBm8/DDHWo0lJZCU5yvjun2eflghACpmnCOI4aaZCII6Zh3HKPIsaIpmngnEPWti3yPN8AuVGWFZwUCcOgxf4TWdd18N7DxvnjHdfPE+LzG/zrCV0MaKVIswbPcyaBZVkwz7PO/B6EQEZUO8BN5zpEXwIhx9xXUmKRH/TSPo5GSukHsK5r9YEJDi+5r/yGoixRFAVoC5ndB5Vxpndc07KMC4JykCVBSZ0Hmedh5u/HPWOTrQyJbICUzW+t7n9ZcGYhi71sW6vkfVPM2L7v1UvXOmVosvZyee7o+WR2gOgGGLx41haITy/ozzf4QQqIj+0aJMBG8o51eusyN0sx3zqdkjyDyWGO0uWxkQvzKum4s38kW5cpibQXqdaFiGteoakb3bOmHTVi/4y2ppAdpdA7MhqnhNDT/Ki+6N9xfVKPAJUhJVdVpaAEYDIKsBXhzKLM06tHQYbfQSX28sNuggYAAAAASUVORK5CYII='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="My Feedback"
+        title="My Feedback"
+        src="/static/bd38ac40b19233fb984e83a47869b2ba/0b533/sept_2020_my_feedback.png"
+        srcset="/static/bd38ac40b19233fb984e83a47869b2ba/fac75/sept_2020_my_feedback.png 125w,
+/static/bd38ac40b19233fb984e83a47869b2ba/63868/sept_2020_my_feedback.png 250w,
+/static/bd38ac40b19233fb984e83a47869b2ba/0b533/sept_2020_my_feedback.png 500w,
+/static/bd38ac40b19233fb984e83a47869b2ba/1d69c/sept_2020_my_feedback.png 750w,
+/static/bd38ac40b19233fb984e83a47869b2ba/00d43/sept_2020_my_feedback.png 1000w,
+/static/bd38ac40b19233fb984e83a47869b2ba/e9140/sept_2020_my_feedback.png 1226w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>
+<h3 id="testimonials" style="position:relative;"><a href="#testimonials" aria-label="testimonials permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Testimonials</h3>
+<p>We've also launched a new <strong>Testimonials</strong> section on the hacker profile page where hackers can showcase their skills and the positive feedback they've received from other hackers.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 20%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAd0lEQVQY052OUQvDMAiE8/9/6baH1YQkRg25xULbdawvFT5QOc8L74XweL5AMaJWRql1wrfIpSC0JmBuEFWY9YPeoWZQPeP7k+5L715hjIF/5fucM+JMnlICEa29iOCqbAYIOpP19avt+MzMu4nj/TZvmt8bf/YBfLc4t4lD2NcAAAAASUVORK5CYII='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="Testimonials"
+        title="Testimonials"
+        src="/static/abd48d445f4d6fa9b8514043542139bb/0b533/sept_2020_testimonials.png"
+        srcset="/static/abd48d445f4d6fa9b8514043542139bb/fac75/sept_2020_testimonials.png 125w,
+/static/abd48d445f4d6fa9b8514043542139bb/63868/sept_2020_testimonials.png 250w,
+/static/abd48d445f4d6fa9b8514043542139bb/0b533/sept_2020_testimonials.png 500w,
+/static/abd48d445f4d6fa9b8514043542139bb/1d69c/sept_2020_testimonials.png 750w,
+/static/abd48d445f4d6fa9b8514043542139bb/00d43/sept_2020_testimonials.png 1000w,
+/static/abd48d445f4d6fa9b8514043542139bb/95e59/sept_2020_testimonials.png 1460w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>]]></content>
+        <author>
+            <name>HackerOne</name>
+            <uri>https://docs.hackerone.com/changelog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[August 2020]]></title>
+        <id>https://docs.hackerone.com/changelog/2020/august</id>
+        <link href="https://docs.hackerone.com/changelog/2020/august"/>
+        <updated>2020-08-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="configure-an-alternative-certificate-for-saml" style="position:relative;"><a href="#configure-an-alternative-certificate-for-saml" aria-label="configure an alternative certificate for saml permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Configure an Alternative Certificate for SAML</h3>
+<p>If you need to switch your identity provider or if your current SAML certificate is expiring, you can now <a href="/programs/single-sign-on-sso-via-saml.html#configure-an-alternative-certificate">configure an alternative certificate</a> to avoid having to disable your SSO integration.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 53.6%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAABAElEQVQoz52SbY+DIBCE/f+/8T7c2RTQ04rIq1Wnu6jNtWlSryRPJkSYXXcopJRglFIQQqCuaxhjMtZaOOeIXd9T7GZVVWX+7ndDVmvdASyKpr2AaS9d1hDTHR8CvD9IiLDcoXMeMSWkNBIJ12m6M/2HeUagBgqeGf9W8J4qecz04dMVY1wNeWasXGFZlo94MKwI1q7rcvvv1m7wvM+GSirIs8CpLFH+lGh+G3QUkN7o+z6jtc4Mw7C54HWH8usbgmhKgfZEnClxYTAah4mSfhXAs9HDDD0Fwh2M48glt4PHg1gcFW0tFhNXw/0upzvNE+nK0adyHQJGpXHV9FJiwA2YtVkCiXtHPwAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="image"
+        title="image"
+        src="/static/9a4e8c8028b72a9a628def1782ed8db1/0b533/aug_2020_alt_certificates.png"
+        srcset="/static/9a4e8c8028b72a9a628def1782ed8db1/fac75/aug_2020_alt_certificates.png 125w,
+/static/9a4e8c8028b72a9a628def1782ed8db1/63868/aug_2020_alt_certificates.png 250w,
+/static/9a4e8c8028b72a9a628def1782ed8db1/0b533/aug_2020_alt_certificates.png 500w,
+/static/9a4e8c8028b72a9a628def1782ed8db1/1d69c/aug_2020_alt_certificates.png 750w,
+/static/9a4e8c8028b72a9a628def1782ed8db1/00d43/aug_2020_alt_certificates.png 1000w,
+/static/9a4e8c8028b72a9a628def1782ed8db1/29beb/aug_2020_alt_certificates.png 1830w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>]]></content>
+        <author>
+            <name>HackerOne</name>
+            <uri>https://docs.hackerone.com/changelog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[July 2020]]></title>
+        <id>https://docs.hackerone.com/changelog/2020/july</id>
+        <link href="https://docs.hackerone.com/changelog/2020/july"/>
+        <updated>2020-07-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="webhooks" style="position:relative;"><a href="#webhooks" aria-label="webhooks permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Webhooks</h3>
+<p>Enterprise programs can now utilize <a href="/programs/webhooks.html">webhooks</a> to build real-time integrations that subscribe to certain report and program events on HackerOne.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 53.6%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAABQ0lEQVQoz6VSPU/DMBD1f0L8CH4LC/8CNhYkmJkQK2JkADEwg8SKhJxPmja248ROk3v4QmgpFKmUk17u8s6+vLuLsNZCaw323nuwEdHWEFzEOT8U67oe/zVRFAWiSCLPUmRpMiJGmsRIkiTkIkgpEcfLd47ZfyLPc9R1HQR1ENNQUMY5olQhzhSyiRl8kpcoyxJKqQE8FgbHX3mGMWbItW0L4ZyDbTrYMD6GaQBdh9ht2TI/+rmHUQW8q0aaFthoGeMi+bw4fr7BvXyBnrV4mzVQFWFmCMoSascXxk/QqhIaCQqL7MOIXNVChc7EazVFpisoM8dUNQFBbU2oGkLjaXlxjbIF33boOwL/JGKTudB3eb/yoeXJwSXkziHSvRNEu0eY7F98pPqfSta2vKI6KLTXT9CntzDnD9Bnd7BXjysH/2rvko9VVTWUj+wAAAAASUVORK5CYII='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="webhooks"
+        title="webhooks"
+        src="/static/0f5f4a9b5481cf57bf2fe88ed087f811/0b533/july_2020_webhooks.png"
+        srcset="/static/0f5f4a9b5481cf57bf2fe88ed087f811/fac75/july_2020_webhooks.png 125w,
+/static/0f5f4a9b5481cf57bf2fe88ed087f811/63868/july_2020_webhooks.png 250w,
+/static/0f5f4a9b5481cf57bf2fe88ed087f811/0b533/july_2020_webhooks.png 500w,
+/static/0f5f4a9b5481cf57bf2fe88ed087f811/1d69c/july_2020_webhooks.png 750w,
+/static/0f5f4a9b5481cf57bf2fe88ed087f811/00d43/july_2020_webhooks.png 1000w,
+/static/0f5f4a9b5481cf57bf2fe88ed087f811/c1bea/july_2020_webhooks.png 1388w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>
+<h3 id="pagerduty-integration" style="position:relative;"><a href="#pagerduty-integration" aria-label="pagerduty integration permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>PagerDuty Integration</h3>
+<p>Enterprise programs can also now <a href="/programs/pagerduty-integration.html">integrate PagerDuty</a> with HackerOne so that each time an <a href="https://api.hackerone.com/webhooks/#events">event</a> is triggered in HackerOne, a PagerDuty incident can automatically be created.</p>
+<h3 id="reputation-signal-and-impact-calculation-enhancements" style="position:relative;"><a href="#reputation-signal-and-impact-calculation-enhancements" aria-label="reputation signal and impact calculation enhancements permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Reputation, Signal and Impact Calculation Enhancements</h3>
+<p>We've made these changes to how <a href="/hackers/reputation.html">reputation</a>, <a href="/hackers/signal-and-impact.html">signal and impact</a> are calculated:  </p>
+<ul>
+<li>The first 10 bounties of a program will now be rewarded with the BOUNTY_LOW reputation instead of the BOUNTY_MEDIUM. After 10 bounties have been paid out, a hacker’s reputation will be recalculated based on the standard deviation of the program’s mean bounty.</li>
+<li>Reports marked as <em>Informative</em> are now <strong>not</strong> included in the calculation of Signal.</li>
+<li>All hacker's signal for <a href="/hackers/restricted-from-submissions.html#signal-requirements">signal requirements</a> will now be based on the last 365 days so that hackers won't be penalized for their past performance affecting their signal.</li>
+</ul>]]></content>
+        <author>
+            <name>HackerOne</name>
+            <uri>https://docs.hackerone.com/changelog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[June 2020]]></title>
+        <id>https://docs.hackerone.com/changelog/2020/june</id>
+        <link href="https://docs.hackerone.com/changelog/2020/june"/>
+        <updated>2020-06-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="inline-report-cvss-details" style="position:relative;"><a href="#inline-report-cvss-details" aria-label="inline report cvss details permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Inline Report CVSS Details</h3>
+<p>We now show the updated CVSS details within the report activity when a program decides to change the severity level of a vulnerability.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 112.80000000000001%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAXCAYAAAALHW+jAAAACXBIWXMAABYlAAAWJQFJUiTwAAACrUlEQVQ4y42U63LiMAyF/f5v1z+daSlQEiAh4U4IkNupPlOnWcrsrmY0dmLrco4ku+Z20x96vaq+XPzamjZPtLV7T7Wq5NazmfLPT62mU62jSFkca71c6no4qD2fvXZl2a9ofTqpOh69si82Gy3NvshzuWYyVjMdqx6P1MxjFcVZyyRVHM+13W61yjKtViu/T5JEuRmVhgDpuu6utr9ZoJvdcZ2lqW/tqlrXS6E8WyqKZuYoUZommseRBYiULBdaLBYWtOgdCjVpm0b4crVt6rpRVVeqGotWH3Q+ZdruS8s0t/WsfHPU7lDqbqofZ4O1rmvhy+33ew9nYzwUxVHlTZqmreKsVZR1SrataafVrlO6bdS2PzADZORiNJyMT6cHud5aM7w7yvet/lfa9n7XrddrTzRZ7na774Ou1z4j0xa1874YA22axp85nM3nc19JYIdIeuBrCC9k9OjUZ0hmpZWcTAMPn9aXtMjS+pE1BIH4yHqV4HrgELuZ9bR7eXnR29tbrxxMJhNrk1gHa26gBMEhwTgj0M2mIwhJpWkqB0wiwh97sqTyOKPfCHBkIswZ2fAfmjJreNBV9PCgfX5VGQevr68+AwIBEY7JAOjj8dhD45yV+whIcOqGpGJAxMDRs9Yg+2dFe+oQASbFgCtW+Jra4JMJd8gYjoE7hApVUOO48PHx4RUHOAQKVYd0LgI39Bn3MXwcvT7Dxs9y7X+gQIZ4nFzt7TvbsxWI5xxnoVChAwJdvihkgQHGrFwcjUYeJrApCNVHOKe13t/ffaaX72csnKEOB+GBAC6ZURTagiCPReFs+H/IIfbu2Yj9a+yGjn49Dn+b2+EzNTQMfA+1dwhcpgTIFINvJoEqh+mBlvBmch6KEJRvqPLvIUUJ7RH2cISGPWSH9nnkNUjokC/t4fd3+U1GGwAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="inline cvss details"
+        title="inline cvss details"
+        src="/static/abab95f711f09eea564a6f445ebc67e3/0b533/june_2020_cvss_details.png"
+        srcset="/static/abab95f711f09eea564a6f445ebc67e3/fac75/june_2020_cvss_details.png 125w,
+/static/abab95f711f09eea564a6f445ebc67e3/63868/june_2020_cvss_details.png 250w,
+/static/abab95f711f09eea564a6f445ebc67e3/0b533/june_2020_cvss_details.png 500w,
+/static/abab95f711f09eea564a6f445ebc67e3/1d69c/june_2020_cvss_details.png 750w,
+/static/abab95f711f09eea564a6f445ebc67e3/5d72a/june_2020_cvss_details.png 834w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>
+<h3 id="resolution-target-date-in-report-header" style="position:relative;"><a href="#resolution-target-date-in-report-header" aria-label="resolution target date in report header permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Resolution Target Date in Report Header</h3>
+<p>We've added a new <a href="/programs/response-target-metrics.html"><strong>Resolution Target</strong></a> field in the report header for all triaged reports. This enables members of the program's response team to clearly see when they should aim to resolve the report by. The date is calculated based off of what the program's <a href="/programs/setting-response-targets.html">response target settings</a> are set to.  </p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 25.6%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAABYlAAAWJQFJUiTwAAAA60lEQVQY011Q206EMBDl///J+Gw20ewSwwolwiIkQsGFcindtsdOhdU4ycl0Ju25NLDWYgeV1hp930MMA8ZpgpESKjxBsgRXt2uaBm3bous6CCH8zPsJfFg8R4CtdkKlFOq6BuccrXukpxHq8QHT4QlZWeIcRYjjGFmeeWGWJMg/v3DhIwwREhG5+tt38h8hQK4rVrm6gyRF3ObFQ44zFgfabbcRGGNQOuWiKHyvqsrHoJlgbxrsdASLGF5eczyH70jTD5zfLgijHIdjCtFd7ynvkf8XCVEEsqjcX+pl3pzNsM7pLxaYzSERfgMKWH/LPcyPGwAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="Resolution Target on Report"
+        title="Resolution Target on Report"
+        src="/static/0597148e80ef310ee5ee8c302cce8ba6/0b533/june_2020_resolution_target.png"
+        srcset="/static/0597148e80ef310ee5ee8c302cce8ba6/fac75/june_2020_resolution_target.png 125w,
+/static/0597148e80ef310ee5ee8c302cce8ba6/63868/june_2020_resolution_target.png 250w,
+/static/0597148e80ef310ee5ee8c302cce8ba6/0b533/june_2020_resolution_target.png 500w,
+/static/0597148e80ef310ee5ee8c302cce8ba6/8c76f/june_2020_resolution_target.png 612w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>
+<h3 id="hackerone-pentest" style="position:relative;"><a href="#hackerone-pentest" aria-label="hackerone pentest permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>HackerOne Pentest</h3>
+<p>We've officially launched <a href="/programs/pentests.html">Pentests</a> as a new product offering to help companies better secure their applications and meet regulatory compliance standards.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 60%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIBBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHtbZIWP//EABcQAAMBAAAAAAAAAAAAAAAAAAACEiD/2gAIAQEAAQUChSFIXH//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAYEAADAQEAAAAAAAAAAAAAAAAAATKRIP/aAAgBAQAGPwKVhKwlcf/EABkQAAMAAwAAAAAAAAAAAAAAAAABEDFB4f/aAAgBAQABPyGKUuLNiwj/2gAMAwEAAgADAAAAENTf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHRAAAwABBQEAAAAAAAAAAAAAAAERIUFxkaGx0f/aAAgBAQABPxBUVtsMj8nwgzxRKtM1HWP/2Q=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="pentest overview page"
+        title="pentest overview page"
+        src="/static/b2426041c3f4f0ebc1e8f0e0c26b1bb1/41099/june_2020_pentests.jpg"
+        srcset="/static/b2426041c3f4f0ebc1e8f0e0c26b1bb1/aa2ed/june_2020_pentests.jpg 125w,
+/static/b2426041c3f4f0ebc1e8f0e0c26b1bb1/0479a/june_2020_pentests.jpg 250w,
+/static/b2426041c3f4f0ebc1e8f0e0c26b1bb1/41099/june_2020_pentests.jpg 500w,
+/static/b2426041c3f4f0ebc1e8f0e0c26b1bb1/acb04/june_2020_pentests.jpg 750w,
+/static/b2426041c3f4f0ebc1e8f0e0c26b1bb1/a2510/june_2020_pentests.jpg 1000w,
+/static/b2426041c3f4f0ebc1e8f0e0c26b1bb1/6942c/june_2020_pentests.jpg 2864w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>]]></content>
+        <author>
+            <name>HackerOne</name>
+            <uri>https://docs.hackerone.com/changelog</uri>
+        </author>
+    </entry>
+</feed>
